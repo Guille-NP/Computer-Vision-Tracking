@@ -1,14 +1,18 @@
-# Computer Vision - Human Tracking and Detection
-Modules for hand tracking, pose estimation, face detection, etc. 
+# 📝 Description
+### 🛠️ Mediapipe modules developed for:
+* Hand tracking
+* Body pose estimation
+* Face detection
+* Face mesh detection
 
-To try and test some of the code, short videos are necessary. The website [Pexels](https://www.pexels.com) is a great repository of videos and images.
+### 🏗️ Use case projects for:
+* Tracking arm movements during exercise sessions to count weightlifting repetitions
+* Audio volume adjustment using two-finger control.
+* Finger counting and right-or-left hand detection
 
-### Next steps ⏭️
-- Improve code for face detection.
-- Build code for Face Mesh.
-- Gesture Volume Control project.
-- Finger Counter project..
-- AI Personal Trainer project.
-- AI Virtual Painter project.
-- AI Virtual Mouse project.
-- Other projects.
+### 🌱 Work in progress:
+* Hand gestures recognition
+* Face expressions recognition
+* Posture recognition during exercise
+
+
